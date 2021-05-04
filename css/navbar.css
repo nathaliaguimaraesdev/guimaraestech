@@ -1,0 +1,38 @@
+.navbar-default {
+    background-color: #04385E;
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+
+.nav-link {
+    color: #fff;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+.nav-link:hover {
+    color: #3AACFF;
+}
+
+ul.navbar-nav {
+    display: flex;
+    margin-left: auto;
+}
+
+.button {
+    margin-top: 20px;
+}
+
+span.navbar-toggler-icon {
+    display: block;
+    margin: 5px;
+    background-color: #fff;
+    height: 2px;
+}
